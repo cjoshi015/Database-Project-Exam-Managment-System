@@ -1,0 +1,7 @@
+
+dbname=project
+dbuser=root
+dbpwd=harshamin1998
+dburl=localhost
+a_year=2018
+batch=1
